@@ -68,6 +68,6 @@ for i in a:
     print(i)
 
 s.append(55)
-a = s.travel_two()
-for i in a:
-    print(i)
+a = s.travel_three()
+while True:
+    print(111)
